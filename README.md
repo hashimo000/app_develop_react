@@ -1,2 +1,2 @@
 # hashimon_app_fixed
-Created with CodeSandbox
+ボタンを押すとアイテムをある確率で、ゲットできます。また、アイテムはものによって排出確率が異なります。
